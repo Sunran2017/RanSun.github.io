@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Business Administration, Northeast Normal University(China), 2011
+* M.S. in Business Administration, Northwest A & F University(China), 2017
+* Ph.D in Agricultural Economics, University of Saskatchewan(Canada), 2021 (expected)
 
-Work experience
+Work experience 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2017 - present: Research Assistant
+  * University of Saskatchewan
+  * Supervisor: Professor Suren Kulshreshtha 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2014 - Summer 2017: Research Assistant
+  * Research Center of Resource and Environemtnal Management, Northwest A & F University
+  * Supervisor: Yajun Guo
   
-Skills
+Working paper
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ran Sun, Suren Kulshreshtha, Cynthia M Creze, Chandra A Madramootoo, Addressing the environmental sustainability of a corn agroecosystem with controlled drainageand subsurface-irrigation in eastern Canada. Submitted to Journal
+* Ran Sun, Mariela Mendoza, Suren Kulshreshtha, Co-benefits of climate change mitigation from innovative agricultural water management: a case study of corn agroecosystem in eastern Canada. In revision
+* Ran Sun, James Nolan, Suren.Kulshreshtha, Agent-based modelling for the adoption of beneficial water management practices in eastern Canada - A case of the cost-share program in agri-environmental policy design. Accepted by 31ST ICAE CONFERENCE
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
