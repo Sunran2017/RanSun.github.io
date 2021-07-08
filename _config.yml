@@ -11,10 +11,10 @@ title                    : "RAN SUN"
 title_separator          : "-"
 name                     : #&name "Ran Sun"
 description              : #&description "Ph.D candidate at Department of Agricultural and Resource Economics, University of Saskatchewan."
-url                      : https://ransun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Sunran2017/ransun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Sunran2017.github.io"
-teaser                   : "500x300.png"
+repository               : "Sunran2017/ransun.github.io"
+teaser                   : #"500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : &twitter"aa"
 facebook:
   username               :
   app_id                 :
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Ran Sun"
-  avatar           : "profile.png"
+  avatar           : "p1.jpg"
   bio              : "Ph.D candidate at Department of Agricultural and Resource Economics, University of Saskatchewan."
   location         : "Sasktoon, Saskatchewan, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Ran + Sun"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "ran.sun@usask.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"testaccount-this-is-fake"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
@@ -179,13 +179,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
