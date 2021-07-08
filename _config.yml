@@ -13,7 +13,7 @@ name                     : #&name "Ran Sun"
 description              : #&description "Ph.D candidate at Department of Agricultural and Resource Economics, University of Saskatchewan."
 url                      : https://ransun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Sunran2017/ransun.github.io"
+repository               : "Sunran2017.github.io"
 teaser                   : "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
