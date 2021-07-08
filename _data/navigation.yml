@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/ 
+    url: https://sunran2017.github.io/ransun.github.io/research/ 
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://sunran2017.github.io/ransun.github.io/teaching/    
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://sunran2017.github.io/ransun.github.io/year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://sunran2017.github.io/ransun.github.io/cv/
