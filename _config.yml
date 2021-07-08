@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "RAN SUN"
 title_separator          : "-"
-name                     : #&name "Ran Sun"
-description              : #&description "Ph.D candidate at Department of Agricultural and Resource Economics, University of Saskatchewan."
-url                      : https://Sunran2017.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ran Sun"
+description              : &description "Ph.D candidate at Department of Agricultural and Resource Economics, University of Saskatchewan."
+url                      : https://Sunran2017/ransun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sunran2017/ransun.github.io"
 teaser                   : #"500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter"aa"
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ran Sun"
-  avatar           : "p1.jpg"
+  avatar           : "profile.png"
   bio              : "Ph.D candidate at Department of Agricultural and Resource Economics, University of Saskatchewan."
   location         : "Sasktoon, Saskatchewan, Canada"
   employer         :
