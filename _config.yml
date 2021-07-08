@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D candidate at Department of Agricultural and Resource Economics, University of Saskatchewan."
   location         : "Sasktoon, Saskatchewan, Canada"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "ran.sun@usask.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
