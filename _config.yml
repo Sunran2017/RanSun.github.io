@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "RAN SUN"
 title_separator          : "-"
-name                     : &name "Ran Sun"
-description              : &description "Ph.D candidate at Department of Agricultural and Resource Economics, University of Saskatchewan."
+name                     : #&name "Ran Sun"
+description              : #&description "Ph.D candidate at Department of Agricultural and Resource Economics, University of Saskatchewan."
 url                      : https://ransun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sunran2017/ransun.github.io"
@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D candidate at Department of Agricultural and Resource Economics, University of Saskatchewan."
   location         : "Sasktoon, Saskatchewan, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Ran + Sun"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "ran.sun@usask.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+ # twitter          : "testaccount-this-is-fake"
   vine             :
   weibo            :
   xing             :
