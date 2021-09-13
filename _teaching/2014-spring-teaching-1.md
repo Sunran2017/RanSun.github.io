@@ -16,7 +16,7 @@ Economics.There are total 5 hours class including 3 sections.
 Section 1: Calculus 2 hours
 ======
 • Functions
-• Basic concepts of di erentials and di erentials calculation
+• Basic concepts of dierentials and di erentials calculation
 • Basic concepts of integral and integral calculation
 • Concepts of concavity and convexity of a function
 • Basic concept of homogeneous function
