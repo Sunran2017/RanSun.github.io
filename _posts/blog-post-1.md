@@ -1,7 +1,7 @@
 ---
 title: 'The observation of chinese rural areas from the perspective of resource endowment'
-date: 2021-09-13
-permalink: /posts/2021/09/blog-post-1/
+date: 2021-08-13
+permalink: /posts/2021/08/blog-post-1/
 tags:
   - China
   - Rural development
