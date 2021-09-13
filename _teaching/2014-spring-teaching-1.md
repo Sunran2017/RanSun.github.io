@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Math Camp"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate workshop"
+permalink: /teaching/2021-mathCamp
+venue: "Saskatchewan, Department of Agricultural and Resourse Economics"
+date: 2021-09-01
+location: "Saskatoon, Canada"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
