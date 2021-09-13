@@ -15,9 +15,9 @@ I obtained my bachelor's and master's degree in China in Business Administration
 
 Education
 ======
-* B.S. in Business Administration, Northeast Normal University(China), 2011
-* M.S. in Business Administration, Northwest A & F University(China), 2017
-* Ph.D in Agricultural Economics, University of Saskatchewan(Canada), 2021 (expected)
+* B.S. in Business Administration, Northeast Normal University (China), 2011
+* M.S. in Business Administration, Northwest A & F University (China), 2017
+* Ph.D in Agricultural Economics, University of Saskatchewan (Canada), 2021 (expected)
 
 Work experience 
 ======
