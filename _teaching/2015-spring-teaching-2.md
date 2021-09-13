@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Econometrics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "(Northwest A & F University,  Adult Education College"
 date: 2015-01-01
-location: "City, Country"
+location: "Yanglin, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I taught Econometrics in Northwest A & F University for Fall 2015 and 2016.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
