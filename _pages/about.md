@@ -34,8 +34,8 @@ Work experience
   
 Working paper
 ======
-* Ran Sun, James Nolan, Suren.Kulshreshtha, Agent-based modeling of policy
-induced agri-environmental technology adoption." SN Business & Economics Special issue: Agent-Based Modelling: Applications in Business Strategies and Managerial Economics. Accepted in June 2022
+* Ran Sun, James Nolan, Suren Kulshreshtha, Agent-based modeling of policy
+induced agri-environmental technology adoption. SN Business & Economics Special issue: Agent-Based Modelling: Applications in Business Strategies and Managerial Economics. Accepted in June 2022
 * Ran Sun, Mariela Mendoza, Suren Kulshreshtha, Co-benefits of climate change mitigation from innovative agricultural water management: a case study of corn agroecosystem in eastern Canada. R&R
 * Ran Sun, Suren Kulshreshtha, Cynthia M Creze, Chandra A Madramootoo, Addressing the environmental sustainability of a corn agroecosystem with controlled drainageand subsurface-irrigation in eastern Canada. 
 * Ran Sun, Suren Kulshreshtha, Decision-making of beneficial water management practices in eastern Canada using GIS-
