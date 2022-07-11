@@ -13,7 +13,7 @@ I am a Ph.D. candidate studying agricultural and resource economics at the Unive
 
 I obtained my bachelor's and master's degree in Business Administration in China. My chance with agricultural and resource economics started from participating in the Chinese eco-project of converting farmland back to forests as a research assistant when I was at my graduate school in Northwest Agricultural and Forestry University of China. To survey those peasants, I interviewed and observed people living abject poverty in arid North-western China but still striving to work hard with optimistic spirits. I was so touched by the situation and felt motivated to keep on studying agricultural economics. I think that was the time for me to be bounded with agriculture and rural development. 
 
-I really agreed with the opinion that agricultural economics is like the engineering in economics, which means it should bring new technology in supporting decision-making. I would like to contribute more research for investigating large-scale interactions within socio-ecological systems applying data science. 
+I really agree with the opinion that agricultural economics is like the engineering in economics, which means it should bring new technology in supporting decision-making. I would like to contribute more research for investigating large-scale interactions within socio-ecological systems applying data science. 
 
 
 Education
